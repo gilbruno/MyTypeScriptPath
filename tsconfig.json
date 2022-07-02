@@ -6,7 +6,8 @@
         "strict": true
     },
     "files" : [
-        "src/app.ts"
+        "src/app.ts",
+        "src/aliastype.ts"
     ],
     
 }
