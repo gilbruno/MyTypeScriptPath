@@ -9,3 +9,12 @@ const increment = (e) => {
     }
 };
 compteur === null || compteur === void 0 ? void 0 : compteur.addEventListener('click', increment);
+//Example of Type Narrowing
+function printId(id) {
+    if (typeof id == 'string') {
+        console.log(id.toUpperCase());
+    }
+    else {
+        console.log(id.toString());
+    }
+}
