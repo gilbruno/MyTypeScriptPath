@@ -1,0 +1,23 @@
+{
+  "name": "mytypescriptpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbruno/MyTypeScriptPath.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbruno/MyTypeScriptPath/issues"
+  },
+  "homepage": "https://github.com/gilbruno/MyTypeScriptPath#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
