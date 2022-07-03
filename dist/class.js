@@ -28,3 +28,16 @@ class D extends C {
 }
 const d_instance = new D();
 d_instance.log();
+class Collection {
+    //Specify a visibility to the argument of the constructor creates implicitly 
+    //a class property 
+    constructor(items) {
+        this.items = items;
+    }
+    first() {
+        return this.items[0] || null;
+    }
+}
+const myCollection = new Collection([1, 2, 3, 4]);
+const myfirstElt = myCollection.first();
+console.log(myfirstElt);
