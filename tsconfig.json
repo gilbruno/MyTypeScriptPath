@@ -10,7 +10,8 @@
         "src/aliastype.ts",
         "src/class.ts",
         "src/abstract.ts",
-        "src/instantiableType.ts"
+        "src/instantiableType.ts",
+        "src/interface.ts"
     ]
     
 }
