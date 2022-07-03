@@ -8,7 +8,8 @@
     "files" : [
         "src/app.ts",
         "src/aliastype.ts",
-        "src/class.ts"
+        "src/class.ts",
+        "src/abstract.ts"
     ],
     
 }
