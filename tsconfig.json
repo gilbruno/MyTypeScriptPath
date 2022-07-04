@@ -12,7 +12,8 @@
         "src/abstract.ts",
         "src/instantiableType.ts",
         "src/interface.ts",
-        "src/tuple.ts"
+        "src/tuple.ts",
+        "src/enum.ts"
     ]
     
 }
