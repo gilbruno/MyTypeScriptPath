@@ -8,3 +8,4 @@ var STEPS;
 })(STEPS || (STEPS = {}));
 const myStep = STEPS.STEP_2;
 console.log(myStep);
+console.log(STEPS[myStep]);

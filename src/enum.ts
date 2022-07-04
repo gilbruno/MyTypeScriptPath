@@ -10,3 +10,4 @@ const myStep: STEPS = STEPS.STEP_2
 
 console.log(myStep)
 
+console.log(STEPS[myStep])
